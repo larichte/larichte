@@ -1,5 +1,9 @@
-## Hi there 👋
-
+# Hello, I'm Laura!👋
+## 💠About Me
+<body>
+🎒I'm a student in the Graphic Information Technology program at ASU. <br>
+📚Some of my favorite things to do are read, watch sports, and travel. <br>
+</body>  
 <!--
 **larichte/larichte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
