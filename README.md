@@ -21,9 +21,7 @@
   <a href="https://codepen.io/larichte" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="larichte" height="30" width="40" /></a><br>
     <a href="https://www.linkedin.com/in/laura-richter-96b795299/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a><br>
  </section>
-<section>
-	![Laura's GitHub stats](https://github-readme-stats.vercel.app/api?username=larichte&show_icons=true&theme=material-palenight)
-</section>		
+		
 </body>
 </section> 
 <!--
