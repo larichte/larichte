@@ -3,7 +3,7 @@
 <body>
   <h2>🔷About Me</h2>
 <p>🎒I'm a student in the Graphic Information Technology program at ASU. I have an interest in graphic design and print & publishing.<br>
-💻I don't have coding experience, but I'm currently working on learning HTML and CSS. <br>
+💻I have experience with the HTML and CSS coding languages and have some practice with JavaScript. <br>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/192158954-f88b5814-d510-4564-b285-dff7d6400dad.png" alt="HTML" title="HTML"/></code>
 	<code><img width="50" src="https://user-images.githubusercontent.com/25181517/183898674-75a4a1b1-f960-4ea9-abcb-637170a00a75.png" alt="CSS" title="CSS"/></code><br>
 🎥Outside of coding, I'm currently exploring video editing with Adobe's Premiere Pro and typography and layout design in Adobe's InDesign. <br>
